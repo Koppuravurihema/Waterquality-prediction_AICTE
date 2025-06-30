@@ -53,7 +53,7 @@ Performance was acceptable across all parameters
 
 ## Model link: 
 
-``````
+```https://1drv.ms/u/s!BP5753uIHwLDgXvPKfFjSMPo85xg?e=wLI4syhI1kmfCGn679kn4w&at=9```
 
 ---
 ## Internship Details
